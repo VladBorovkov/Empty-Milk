@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Raleway:wght@100&display=swap');
+p {
+    color: red;
+}
+
+
+
+#headerwrap {
+    background: url(https://static.zerochan.net/Miyaura.Sanshio.full.1955713.jpg) ;}
+    
+    /*background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
